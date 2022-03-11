@@ -1,3 +1,18 @@
+# INTRODUCTION
+A simple movie app created with React
+
+# LANGUAGES USED
+* HTML
+* CSS
+* JS
+
+# TECHNOLOGIES USED
+* REACT
+
+# DEMO
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
